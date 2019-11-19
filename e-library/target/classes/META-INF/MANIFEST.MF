@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: e-library
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kavinash
+Implementation-Vendor-Id: com.elibrary
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/e-library
+Created-By: Maven Integration for Eclipse
+
